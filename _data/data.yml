@@ -7,17 +7,17 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
-  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  name: José Julián Rodríguez Rentería
+  tagline: Ruby on Rails Web Developer \
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: josejulian_rodriguezucol.mx
+  phone: 3141160033
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
-  gitlab:
+  linkedin: JOSE JULIAN RODRIGUEZ RENTERIA
+  github: JulianRodriguez29
+  gitlab: JulianRodriguez29
   bitbucket:
   twitter: '@BrightCoders'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -27,17 +27,14 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: Competent
 
     - idiom: Spanish
-      level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
-
-    - idiom: German
-      level: Colloquial
+      level: Proficient
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
-    - item: Communication
+    - item: Accountability
       link: # dejar en blanco
 
     - item: Team Work
@@ -45,7 +42,19 @@ sidebar:
 
     - item: Time Management
       link: # dejar en blanco
-
+      
+    - item: Confidence
+      link: # dejar en blanco
+      
+    - item: Management
+      link: # dejar en blanco
+      
+    - item: Critical thinking
+      link: # dejar en blanco
+      
+    - item: Empathy
+      link: # dejar en blanco
+      
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
@@ -125,20 +134,20 @@ skills:
     - name: Python
       level: 20%
 
-    - name: PyTorch
-      level: 40%
-
-    - name: Tensorflow
+    - name: HTML
       level: 60%
 
-    - name: Caffe
+    - name: CSS
+      level: 40%
+
+    - name: Javascript
       level: 80%
 
-    - name: Matlab
-      level: 100%
-
-    - name: C/C++
+    - name: C#
       level: 40%
+
+    - name: Ruby
+      level: 20%
 
 # NO MODIFICAR
 footer: >
